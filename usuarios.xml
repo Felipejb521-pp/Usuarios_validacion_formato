@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="usuarios.xsd" type="application/xml" schematypens="https://www.w3.org/2001/XMLSchema"?>
+<usuarios>
+    <usuario>
+        <email>pepe@gmail.fr</email>
+        <telefono>+34676897654</telefono>
+        <codigoPostal>01567</codigoPostal>
+        <nombreUsuario>pepe.pb</nombreUsuario>
+        <contraseña>pepillo=2003</contraseña>
+    </usuario>
+    <usuario>
+        <email>javier.mtnez@gmail.com</email>
+        <telefono>+34612345678</telefono>
+        <codigoPostal>28001</codigoPostal> 
+        <nombreUsuario>javiermtnz</nombreUsuario>
+        <contraseña>Ab12C+34</contraseña>
+    </usuario>
+    <usuario>
+        <email>elena.soria88@outlook.es</email>
+        <telefono>+34699887766</telefono>
+        <codigoPostal>08015</codigoPostal> 
+        <nombreUsuario>elenasoria</nombreUsuario>
+        <contraseña>Xt99Pq12</contraseña>
+    </usuario>
+    <usuario>
+        <email>admin_tecnico@yahoo.info</email>
+        <telefono>+34722112233</telefono>
+        <codigoPostal>52001</codigoPostal> 
+        <nombreUsuario>admin_tec</nombreUsuario>
+        <contraseña>Km77Rt45</contraseña>
+    </usuario>
+</usuarios>
