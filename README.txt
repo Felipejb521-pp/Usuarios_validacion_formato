@@ -3,8 +3,8 @@ El objetivo es asegurar que la información crítica (emails, teléfonos, códig
 
 Contenido del Repositorio
 	usuarios.xml: Archivo de datos con ejemplos de usuarios.usuarios.xsd: 
-	Esquema de validación con reglas de tipos simples y complejos.
-	video_demo.mp4: Demostración visual del funcionamiento y validación. 
+	usuarios.xsd: Esquema de validación con reglas de tipos simples y complejos.
+	regex_validacion.mp4: Demostración visual del funcionamiento y validación. 
 
 Reglas de Validación (XSD)
 El archivo usuarios.xsd aplica las siguientes restricciones mediante Expresiones Regulares (Regex):
