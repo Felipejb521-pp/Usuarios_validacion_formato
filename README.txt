@@ -15,6 +15,6 @@ El archivo usuarios.xsd aplica las siguientes restricciones mediante Expresiones
 	Código Postal 
 		Limitado estrictamente a España (01-52) con 5 dígitos exactos.
 	Nombre de Usuario
-		Mínimo 6 caracteres, empezando por letra o número y permitiendo . o _.
+		Mínimo 6 caracteres en minúscula, empezando por letra o número y permitiendo . o _.
 	Contraseña
 		Mínimo 8 caracteres, alfanumérica con caracteres especiales permitidos.
