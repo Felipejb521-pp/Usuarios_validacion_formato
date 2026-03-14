@@ -1,4 +1,5 @@
-Este proyecto presenta un sistema de almacenamiento de datos de usuarios en formato XML, validado mediante un esquema XSD personalizado. El objetivo es asegurar que la información crítica (emails, teléfonos, códigos postales y contraseñas) cumpla con estándares de formato específicos.
+Este proyecto presenta un sistema de almacenamiento de datos de usuarios en formato XML, validado mediante un esquema XSD personalizado. 
+El objetivo es asegurar que la información crítica (emails, teléfonos, códigos postales y contraseñas) cumpla con estándares de formato específicos.
 
 Contenido del Repositorio
 	usuarios.xml: Archivo de datos con ejemplos de usuarios.usuarios.xsd: 
